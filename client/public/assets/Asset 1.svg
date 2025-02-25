@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 447.87 138.86">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: .3em;
+      }
+
+      .cls-3 {
+        letter-spacing: .31em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-5 {
+        letter-spacing: .34em;
+      }
+
+      .cls-6 {
+        letter-spacing: .34em;
+      }
+
+      .cls-7 {
+        fill: #666;
+        font-family: Gotham-Book, Gotham;
+        font-size: 24.73px;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: Gotham-Bold, Gotham;
+        font-size: 45.13px;
+        font-weight: 700;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #151611;
+      }
+
+      .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-11 {
+        fill: #e54127;
+      }
+
+      .cls-12 {
+        letter-spacing: .27em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-9" transform="translate(122.37 86.87)"><tspan x="0" y="0">QADIR </tspan><tspan class="cls-1" x="170.64" y="0">J</tspan><tspan class="cls-4" x="194.97" y="0">A</tspan><tspan class="cls-8" x="226.11" y="0">VED</tspan></text>
+      <text class="cls-7" transform="translate(126.64 118.76)"><tspan class="cls-12" x="0" y="0">W</tspan><tspan class="cls-6" x="34.05" y="0">eb D</tspan><tspan class="cls-3" x="124.99" y="0">e</tspan><tspan class="cls-2" x="147.3" y="0">v</tspan><tspan class="cls-5" x="169.35" y="0">eloper</tspan></text>
+      <g id="zmCklI">
+        <path class="cls-11" d="m94.21,120.1c1.71,1.33,3.63,2.46,5.09,4.03,3.21,3.44,3.12,8.19.05,11.45-3.01,3.2-7.99,4.03-11.11.77-4.72-4.9-8.87-4.74-14.71-1.78-8.17,4.14-17.24,5.03-26.45,3.72,3.25-2.47,6.61-4.55,9.38-7.23,9.14-8.85,11.95-20.23,12.06-32.46.13-13.12.05-26.24.01-39.36-.03-9.28-5.86-15.68-14.26-15.76-8.16-.07-14.22,6.19-14.47,15.34-.35,12.91-.47,25.82-.71,38.73-.04,2.06.08,4.17-.31,6.17-2.01,10.35-11.93,15.85-22.29,12.41-6.6-2.19-11.07-6.67-13.43-13.17C-7.92,72.82,11.83,38.68,43.46,33.06c29.1-5.16,56.33,12.93,62.15,41.6,3.06,15.09.08,29.12-8.81,41.79-.53.76-1.09,1.5-1.61,2.27-.11.16-.12.38-.18.58-.27.27-.54.54-.8.81Z"/>
+      </g>
+      <circle class="cls-10" cx="53.14" cy="14" r="14"/>
+    </g>
+  </g>
+</svg>
